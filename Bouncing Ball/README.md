@@ -2,3 +2,9 @@
 
 A basic program created using mostly javascript and some html that shows an animation 
 of a ball moving around the screen and bouncing off the edges of the canvas. 
+
+## Assets 
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src=assets/ball.png" alt="ball" style="margin-bottom: 10px;">
+  <img src="assets/ball2.png" alt="ball2" style="margin-bottom: 10px;">
+</div>
