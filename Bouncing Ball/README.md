@@ -4,7 +4,7 @@ A basic program created using mostly javascript and some html that shows an anim
 of a ball moving around the screen and bouncing off the edges of the canvas. 
 
 
-## Screenshots
+# Screenshots
 
 ![](/assets/ball.png)
 
