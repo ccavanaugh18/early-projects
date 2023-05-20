@@ -1,8 +1,8 @@
-# Snake recreated
+# Description
 
 A recreation of the classic game "snake" using javascript. Use the arrow keys to move.
 
-## Screenshots
+# Screenshots
 
 ![](/assets/snake2.png)
 
