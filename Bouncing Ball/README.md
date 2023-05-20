@@ -6,7 +6,5 @@ of a ball moving around the screen and bouncing off the edges of the canvas.
 
 ## Screenshots
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src=assets/ball.png" alt="ball" style="margin-bottom: 10px;">
-  <img src="assets/ball2.png" alt="ball2" style="margin-bottom: 10px;">
-</div>
+![](assets/ball.png)
+![](assets/ball2.png)
