@@ -8,7 +8,7 @@ var yourAceCount = 0;
 var hidden;
 var deck;
 
-var canHit = true; //allows the player to draw while yourSum <= 21
+var canHit = true; // allows the player to draw while yourSum <= 21
 
 window.onload = function() {
     buildDeck();
@@ -23,7 +23,7 @@ function buildDeck() {
 
     for (let i = 0; i < types.length; i++) {
         for (let j = 0; j < values.length; j++) {
-            deck.push(values[j] + "-" + types[i]); //A-C -> K-C, A-D -> K-D
+            deck.push(values[j] + "-" + types[i]); // A-C -> K-C, A-D -> K-D
         }
     }
     // console.log(deck);
