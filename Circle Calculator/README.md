@@ -1,8 +1,8 @@
-# Circle Circumference Calculator
+# Description
 
 Created with JavaScript, this program calculates the circumference using the radius.
 
-## Screenshots
+# Screenshots
 
 ![](/assets/calculator.png)
 
