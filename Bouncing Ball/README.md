@@ -6,5 +6,5 @@ of a ball moving around the screen and bouncing off the edges of the canvas.
 
 ## Screenshots
 
-![](assets/ball.png)
-![](assets/ball2.png)
+![](/assets/ball.png)
+![](/assets/ball2.png)
